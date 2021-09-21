@@ -1,0 +1,56 @@
+/*Paleta de colores*/
+/*
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+*/
+
+/*Tipografías*/
+/*
+Familia: 'Roboto'
+*/
+
+/*Tamaños Tipográficos*/
+/*
+Cuerpos de texto: 12px
+Titulares (Basado en tu última visita/Ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px
+*/
+
+body{
+    background-color: #EAC926;
+    font-family: "Roboto";
+}
+p{
+    font-size: 12px;
+}
+.titulares{
+    font-size: 24px;
+}
+.precios{
+    font-size: 18px;
+}
+.descuentos{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+.amarillo{
+    color: #EAC926;
+}
+.icono{
+    font-size: 1em;
+    background-color: #03264C;
+    color:#ffffff;
+    border-radius: 5px;
+    padding: 10px;
+}
+.burger-menu{
+    text-align: center;
+}
